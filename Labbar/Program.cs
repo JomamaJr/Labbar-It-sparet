@@ -59,4 +59,20 @@ Console.WriteLine("Fel lösenord");
 Console.ReadLine();
 }
 */
-//HWEk
+
+// Labb 5
+/*
+Console.Write("Hur många grader är det ute? (Skriv bara siffror) ");
+string inmatning = Console.ReadLine();
+int Tempen = Convert.ToInt32(inmatning);
+
+if (Tempen > 24) 
+{
+    Console.WriteLine("Dags att bada!");
+}
+else
+{
+    Console.WriteLine("Dags att gå in igen... Det är för kallt ute");
+}
+Console.ReadLine();
+*/''
